@@ -1,46 +1,62 @@
-### Takhir Adilzhanov
+### hey, i'm takhir
 
-**Product leader who ships.** Co-Founder & CPO @ [IOTA](https://iota.uz) — building ERP/CRM systems and open-source infrastructure in Uzbekistan.
+i build products, grow them, and occasionally break things in interesting ways.
 
-I don't write code — I vibe-code with AI agents and manage the teams that build production systems. Claude Code, OpenCode, and Cursor are my IDE. I think in systems, not tasks.
+co-founder & cpo @ [iota](https://iota.uz) in tashkent. before that — product roles at us startups, pm work in moscow, business degree in the netherlands. i've been moving between countries and industries long enough to know that most problems are people problems, not tech problems.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rihkat/)
-
----
-
-### What I do
-
-🔧 **Build 0→1 products** — took startups from zero to $1M ARR. Product strategy, growth loops, pricing, positioning, launch.
-
-🧠 **Systems thinking** — I see the whole machine. Architecture, team topology, feedback loops, unit economics. Not just features — foundations.
-
-⚡ **Vibe coding** — I don't code in the traditional sense. I architect with AI agents (Claude Code, OpenCode, Cursor), prototype in hours, and ship what used to take teams weeks. The future of product leadership is building, not just speccing.
-
-🌍 **Emerging markets** — International business degree (Netherlands), PM in Moscow, product roles at US startups, now building in Central Asia. I know how to ship software where infrastructure fights you.
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rihkat/)
 
 ---
 
-### Open Source
+### what i actually do
 
-**[War Room](https://github.com/iota-uz/warroom)** — Put 6 frontier LLMs in a room and make them argue. Structured multi-model debate engine: DeepSeek, GPT, Opus, Gemini, Grok, Kimi go through 6 rounds of research → pitch → challenge → convergence → vote. Used for business strategy, creative ideation, and live Polymarket prediction analysis. Go + Bubble Tea TUI.
+i'm a product person who vibe-codes. claude code, opencode, cursor — these are my IDE now. i think in systems, prototype in hours, and ship what used to take sprints. not because i'm faster than engineers, but because the loop from idea to working thing has never been shorter.
 
-**[Agent Memory](https://github.com/takhir-iota/agent-memory)** — Your AI coding agents forget everything between sessions. This fixes that. Indexes Claude Code / OpenCode sessions into SQLite, auto-summarizes with Haiku, feeds context back. Zero cloud, zero auth, zero telemetry. Built because the existing solution (onecontext-ai) was shipping your data to a random Vercel backend.
-
-**[Speak](https://github.com/iota-uz/speak)** — macOS menu bar dictation that actually works. Hotkey → talk → real-time text via Deepgram Nova-3. Faster and more accurate than Apple's built-in. Custom vocabulary for names and brands. ~$5/month.
-
-**[IOTA SDK](https://github.com/iota-uz/iota-sdk)** — Open-source ERP/CRM for the Uzbekistan market. Modular Go backend, React frontend, PostgreSQL. What we use to run real businesses.
+day to day it's a mix of: product strategy, team building, ai pipelines, consulting, and building open source tools that scratch my own itch.
 
 ---
 
-### Track record
+### some things i've built
 
-- **0→$1M ARR** at US startups (product + growth, solo or with small teams)
-- **IOTA** — co-founded a software company, built the team, shipped ERP used by real businesses
-- **GRANIT** — consulting for Euroasia Insurance on their digital platform
-- **Vibe coding pioneer** — using AI agents as my primary development tool since early 2025
+**[careerist.com](https://careerist.com)** — edtech platform, 0→1 product & growth. helped take it from nothing to real revenue.
+
+**[ableapp.com](https://ableapp.com)** — productivity/project management tool. early product work, shaped the core experience.
+
+**[aimlapi.com](https://aimlapi.com)** — unified ai/ml api platform. product consulting and growth.
+
+**[iota](https://iota.uz)** — co-founded. we build erp/crm systems and open-source tools for the uzbekistan market. real businesses run on what we ship.
+
+**[granit](https://euroasia.uz)** — consulting for euroasia insurance on their digital platform. enterprise, regulations, the whole fun package.
 
 ---
 
-*I build the machine that builds the product.*
+### open source
 
-**Open to:** Advising, fractional CPO roles, and interesting 0→1 problems.
+**[war room](https://github.com/iota-uz/warroom)** — 6 frontier llms walk into a room and argue about your problem. structured debate engine: research → pitch → challenge → convergence → vote. strategy, creative, lifestyle, and polymarket presets. go + bubble tea.
+
+**[agent memory](https://github.com/takhir-iota/agent-memory)** — ai coding agents forget everything between sessions. this fixes that. indexes sessions into sqlite, auto-summarizes, feeds context back. built it because the existing tool was shipping my data to some random vercel backend. no cloud, no auth, no telemetry.
+
+**[speak](https://github.com/iota-uz/speak)** — macos dictation that doesn't suck. hotkey → talk → real-time text. deepgram nova-3, custom vocab. ~$5/month.
+
+**[iota sdk](https://github.com/iota-uz/iota-sdk)** — open-source erp. go + react + postgres. modular, practical, boring in the best way.
+
+---
+
+### consulting
+
+i help teams and companies with:
+
+- **ai pipelines & rag systems** — safe, practical, production-grade. not demo-ware.
+- **product strategy** — 0→1, positioning, pricing, growth loops, when to say no.
+- **team & tech architecture** — who to hire, what to build, what to buy.
+- **corporate digital transformation** — enterprise systems that people actually use.
+
+i'm not a consultant who writes decks. i build things and show you what works.
+
+---
+
+### vibes
+
+i like systems thinking, emerging markets, open source, ai agents, weird side projects, and building things that matter to real people. i start too many projects (working on it). i believe the best products come from people who use them.
+
+based in tashkent. open to interesting problems anywhere.

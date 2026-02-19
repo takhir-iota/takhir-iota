@@ -18,11 +18,11 @@ day to day it's a mix of: product strategy, team building, ai pipelines, consult
 
 ### some things i've built
 
-**[careerist.com](https://careerist.com)** — edtech platform, 0→1 product & growth. helped take it from nothing to real revenue.
+**[careerist.com](https://careerist.com)** — edtech platform. built the career coaching mvp from scratch, 0→1.
 
-**[ableapp.com](https://ableapp.com)** — productivity/project management tool. early product work, shaped the core experience.
+**[ableapp.com](https://ableapp.com)** — healthtech startup. early product work, shaped the core experience.
 
-**[aimlapi.com](https://aimlapi.com)** — unified ai/ml api platform. product consulting and growth.
+**[aimlapi.com](https://aimlapi.com)** — unified ai/ml api platform. scaled from idea to solid revenue.
 
 **[iota](https://iota.uz)** — co-founded. we build erp/crm systems and open-source tools for the uzbekistan market. real businesses run on what we ship.
 

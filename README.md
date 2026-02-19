@@ -10,7 +10,7 @@ co-founder & cpo @ [iota](https://iota.uz) in tashkent. before that — product 
 
 ### what i actually do
 
-i'm a product person who vibe-codes. claude code, opencode, cursor — these are my IDE now. i think in systems, prototype in hours, and ship what used to take sprints. not because i'm faster than engineers, but because the loop from idea to working thing has never been shorter.
+i'm a product person with solid tech understanding. i don't manage from a distance — i get deep into architecture, data flows, and system design. right now i mostly steer ai systems in the right direction to extract real value, fast. not hype, not demos — working products that ship.
 
 day to day it's a mix of: product strategy, team building, ai pipelines, consulting, and building open source tools that scratch my own itch.
 

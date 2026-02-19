@@ -10,7 +10,7 @@ co-founder & cpo @ [iota](https://iota.uz) in tashkent. before that — product 
 
 ### what i actually do
 
-i'm a product person with solid tech understanding. i don't manage from a distance — i get deep into architecture, data flows, and system design. right now i mostly steer ai systems in the right direction to extract real value, fast. not hype, not demos — working products that ship.
+i'm a product person with solid tech understanding. right now i mostly steer ai systems in the right direction to extract real value fast.
 
 day to day it's a mix of: product strategy, team building, ai pipelines, consulting, and building open source tools that scratch my own itch.
 
@@ -46,7 +46,7 @@ day to day it's a mix of: product strategy, team building, ai pipelines, consult
 
 i help teams and companies with:
 
-- **ai pipelines & rag systems** — safe, practical, production-grade. not demo-ware.
+- **ai pipelines & rag systems** — safe, practical, production-grade.
 - **product strategy** — 0→1, positioning, pricing, growth loops, when to say no.
 - **team & tech architecture** — who to hire, what to build, what to buy.
 - **corporate digital transformation** — enterprise systems that people actually use.
@@ -57,6 +57,6 @@ i'm not a consultant who writes decks. i build things and show you what works.
 
 ### vibes
 
-i like systems thinking, emerging markets, open source, ai agents, weird side projects, and building things that matter to real people. i start too many projects (working on it). i believe the best products come from people who use them.
+i like systems thinking, emerging markets, open source, ai agents, weird side projects, and building things that matter to real people. i believe the best products come from people who use them.
 
-based in tashkent. open to interesting problems anywhere.
+open to interesting problems anywhere.
